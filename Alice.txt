@@ -4,3 +4,5 @@ Some text on the second line.
 On change_alice branch now...
 
 some more text to alice
+
+rebase Alice
