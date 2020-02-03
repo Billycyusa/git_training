@@ -1,3 +1,4 @@
-<<<<<<< HEAD
 Hi! I'm Bobby. I've been here for a while now.
 Hello! It is nice to meet you. 
+
+rebase bob
